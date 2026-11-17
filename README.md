@@ -2,6 +2,8 @@
 
 A feature-rich, ball-by-ball cricket scoring web app. Built for real match scoring — tracks runs, wickets, extras, player stats, and special rules like free hits, all with undo support and admin PIN protection.
 
+![CricScore screenshot](docs/screenshot.png)
+
 **Live demo → [cricscore-eta.vercel.app](https://cricscore-eta.vercel.app/)**
 
 ---
@@ -43,9 +45,9 @@ A feature-rich, ball-by-ball cricket scoring web app. Built for real match scori
 ## Getting Started
 
 ```bash
-git clone https://github.com/your-username/cricscore
-cd cricscore
-open index.html
+git clone https://github.com/VishwakVemuru/CricScore
+cd CricScore
+# then open CricScore_v2.html in your browser
 ```
 
 Or visit the live deployment at [cricscore-eta.vercel.app](https://cricscore-eta.vercel.app/)
@@ -76,3 +78,9 @@ Deployed on **Vercel** as a static site — no server or database required.
 
 Built by **Vishwak Vemuru**.  
 CricScore was built to solve a real problem — scoring local cricket matches accurately on a phone without needing an internet connection or a complicated app.
+
+---
+
+## License
+
+MIT. See [LICENSE](LICENSE). If you find CricScore useful, a star helps others find it.
