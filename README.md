@@ -4,7 +4,7 @@ A feature-rich, ball-by-ball cricket scoring web app. Built for real match scori
 
 ![CricScore screenshot](docs/screenshot.png)
 
-**Live demo → [cricscore-eta.vercel.app](https://cricscore-eta.vercel.app/)**
+**Live demo → [vishwakvemuru.github.io/CricScore](https://vishwakvemuru.github.io/CricScore/)**
 
 ---
 
@@ -50,7 +50,7 @@ cd CricScore
 # then open CricScore_v2.html in your browser
 ```
 
-Or visit the live deployment at [cricscore-eta.vercel.app](https://cricscore-eta.vercel.app/)
+Or visit the live deployment at [vishwakvemuru.github.io/CricScore](https://vishwakvemuru.github.io/CricScore/)
 
 ---
 
